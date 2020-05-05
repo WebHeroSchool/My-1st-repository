@@ -10,13 +10,13 @@ body {
     margin-top: 15px;
     margin-bottom: 0px;
   }
-.navigation {
+	.navigation {
     text-align: center;
     display: flex;
     justify-content: space-between;
     padding: 15px 50px 0;
   }
-.navigation__menu {
+	.navigation__menu {
     text-decoration: none;
     color: #5f5861;
   }
@@ -33,29 +33,29 @@ body {
     text-align: justify;
   }
   .section__button {
-  display: block;
-  box-sizing: border-box;
-  padding: 8px;
-  width: 80%;
-  max-width: 200px;
-  background: rgba(255, 255, 255, 0.5);
-  border-radius: 8px;
-  text-align: center;
-  text-decoration: none;
-  letter-spacing: 1px;
-  transition: all 0.3s ease-out;
-  margin-top: 30px;
- }
+ 		display: block;
+ 		box-sizing: border-box;
+ 		padding: 8px;
+ 		width: 80%;
+ 		max-width: 200px;
+ 		background: rgba(255, 255, 255, 0.5);
+ 		border-radius: 8px;
+ 		text-align: center;
+ 		text-decoration: none;
+ 		letter-spacing: 1px;
+ 		transition: all 0.3s ease-out;
+ 		margin-top: 30px;
+	 }
  .footer__link {
    font-size: 13px;
    color: #1a0dab;
- }
+ 	}
  .footer__text {
    font-size: 12px;
    margin-top: 50px;
    width: 220px;
    text-align: justify;
- }
+ 	}
  .footer__title {
    margin-top: 100px;
- }
+	}
