@@ -1,0 +1,61 @@
+body {
+  background: url('https://cdn.pixabay.com/photo/2020/04/22/06/47/hydrangea-5076212_1280.jpg') 0 center no-repeat;
+  background-size: cover;
+  font-family: 'Ledger', sans-serif;
+  color: #5f5861;
+  }
+  .header__title {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+	.navigation {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 50px 0;
+  }
+	.navigation__menu {
+    text-decoration: none;
+    color: #5f5861;
+  }
+  .section__title{
+    font-size: 18px;
+    margin-top: 70px;
+    width: 290px;
+    text-align: justify;
+  }
+  .section__text {
+    font-size: 15px;
+    margin-top: 50px;
+    width: 220px;
+    text-align: justify;
+  }
+  .section__button {
+ 		display: block;
+ 		box-sizing: border-box;
+ 		padding: 8px;
+ 		width: 80%;
+ 		max-width: 200px;
+ 		background: rgba(255, 255, 255, 0.5);
+ 		border-radius: 8px;
+ 		text-align: center;
+ 		text-decoration: none;
+ 		letter-spacing: 1px;
+ 		transition: all 0.3s ease-out;
+ 		margin-top: 30px;
+	 }
+ .footer__link {
+   font-size: 13px;
+   color: #1a0dab;
+ 	}
+ .footer__text {
+   font-size: 12px;
+   margin-top: 50px;
+   width: 220px;
+   text-align: justify;
+ 	}
+ .footer__title {
+   margin-top: 100px;
+	}
